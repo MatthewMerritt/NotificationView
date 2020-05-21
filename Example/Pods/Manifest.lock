@@ -1,0 +1,16 @@
+PODS:
+  - NotificationView (0.1.0)
+
+DEPENDENCIES:
+  - NotificationView (from `../`)
+
+EXTERNAL SOURCES:
+  NotificationView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  NotificationView: 803cfe22f60f9c326fc865d9504a30848ea5315d
+
+PODFILE CHECKSUM: f74399ea0cdeb412552b9838f84ca1eae385392f
+
+COCOAPODS: 1.9.1
